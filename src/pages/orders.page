@@ -1,0 +1,27 @@
+<apex:page controller="OrderController">
+
+    <apex:stylesheet value="{!$Resource.OrderStyles}"/>
+    <apex:form >
+        <apex:pageBlock title="{!$User.FirstName}'s orders">
+            <apex:pageBlockButtons location="top">
+                <apex:commandButton value="Back" action="{!goShop}"/>
+            </apex:pageBlockButtons>
+            <apex:repeat value="{!orders}" var="list" >
+                <apex:pageBlockSection title="Invoice statement: {!list}" id="categoryName" columns="1" collapsible="false">
+                    <apex:pageBlockTable value="{!orders[list]}" var="item">
+                        <apex:column value="{!item.Shop_Product__r.name}"/>
+                        <apex:column value="{!item.Shop_Product__r.Price__c}"/>
+                        <apex:column value="{!item.Unit_Sold__c}"/>
+                        <apex:column value="{!item.Total_Value__c}" headerValue="Value"/>
+                        <apex:column value="{!item.Created__c}"/>
+                    </apex:pageBlockTable>
+                    <apex:pageBlockTable value="{!orders[list]}" var="it" rows="1" columns="2">
+                        <apex:column value="{!it.Shop_Order__r.Status__c}" width="50%" styleClass="colored"/>
+                        <apex:column value="{!it.Shop_Order__r.Total_Value__c}" width="50%" styleClass="colored"/>
+                    </apex:pageBlockTable>
+                </apex:pageBlockSection>
+                </apex:repeat>
+        </apex:pageBlock>
+    </apex:form>
+
+</apex:page>

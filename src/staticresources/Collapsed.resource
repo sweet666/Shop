@@ -1,0 +1,1 @@
+twistSection(document.getElementById("{!$Component.categoryName}").childNodes[0].childNodes[0]);

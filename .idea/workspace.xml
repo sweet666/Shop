@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8c98e51-cf75-4e95-867d-fa9d77fef496" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Shop$TestShopController.coverage" NAME="dev Coverage Results" MODIFIED="1510757840977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="Apex" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" PROJECT_NAME="Shop" CONNECTION_NAME="dev" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Apex Class" />
+        <option value="Visualforce Page" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/classes/SubmitApproval.cls" />
+        <option value="$PROJECT_DIR$/src/classes/CCard.cls" />
+        <option value="$PROJECT_DIR$/src/classes/StaticValues.cls" />
+        <option value="$PROJECT_DIR$/src/classes/ShopConstants.cls" />
+        <option value="$PROJECT_DIR$/src/classes/OrderController.cls" />
+        <option value="$PROJECT_DIR$/src/classes/TestOrderControllerClass.cls" />
+        <option value="$PROJECT_DIR$/src/triggers/SubmitTrigger.trigger" />
+        <option value="$PROJECT_DIR$/src/classes/ShopController.cls" />
+        <option value="$PROJECT_DIR$/src/classes/TestShopController.cls" />
+        <option value="$PROJECT_DIR$/src/pages/productCatalog.page" />
+        <option value="$PROJECT_DIR$/src/pages/test.page" />
+      </list>
+    </option>
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="Shop">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1510822297764" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="dev">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="CLASSES/CCARD.CLS" value="1510738373123" />
+                      <entry key="CLASSES/ORDERCONTROLLER.CLS" value="1510738379068" />
+                      <entry key="CLASSES/SHOPCONSTANTS.CLS" value="1510738385178" />
+                      <entry key="CLASSES/SHOPCONTROLLER.CLS" value="1510738394629" />
+                      <entry key="CLASSES/SUBMITAPPROVAL.CLS" value="1510738400098" />
+                      <entry key="CLASSES/TESTORDERCONTROLLERCLASS.CLS" value="1510738408151" />
+                      <entry key="CLASSES/TESTSHOPCONTROLLER.CLS" value="1510757833465" />
+                      <entry key="OBJECTS/ACCOUNT.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ACCOUNTCLEANINFO.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ACCOUNTCONTACTROLE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ACTIVITY.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ASSET.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ASSETRELATIONSHIP.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ASSISTANTPROGRESS.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CAMPAIGN.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CAMPAIGNMEMBER.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CAMPING_ITEM__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CARD__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CASE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CASECONTACTROLE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CATEGORY__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CONTACT.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CONTACTCLEANINFO.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CONTENTVERSION.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CONTRACT.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/CONTRACTCONTACTROLE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/DANDBCOMPANY.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/DUPLICATERECORDITEM.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/DUPLICATERECORDSET.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/EMAILMESSAGE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ENERGY_AUDIT__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/EVENT.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/EXCHANGEUSERMAPPING.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/EXPENSE__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/FEEDITEM.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/FORECASTINGCATEGORYMAPPING.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/IDEA.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/LEAD.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/LEADCLEANINFO.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/MACRO.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/MACROACTION.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/MACROINSTRUCTION.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/OFFER__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/OPPORTUNITY.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/OPPORTUNITYCOMPETITOR.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/OPPORTUNITYCONTACTROLE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/OPPORTUNITYLINEITEM.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ORDER.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/ORDERITEM.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PARTNERROLE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PRICEBOOK2.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PRICEBOOKENTRY.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PRODUCT2.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PRODUCT_JUNCTION__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PROJECT__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/PROPERTY__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SCORECARD.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SCORECARDMETRIC.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SHOP_ORDER__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SHOP_PRODUCT__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SITE.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SOCIALPERSONA.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SOLUTION.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/STREAMINGCHANNEL.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/SUGGESTION__C.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/TASK.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/USER.OBJECT" value="1510738323000" />
+                      <entry key="OBJECTS/USERPROVISIONINGREQUEST.OBJECT" value="1510738323000" />
+                      <entry key="PAGES/ORDERS.PAGE" value="1510738423658" />
+                      <entry key="PAGES/PRODUCTCATALOG.PAGE" value="1510738430950" />
+                      <entry key="STATICRESOURCES/CATEGORYSTYLES.RESOURCE" value="1510738323000" />
+                      <entry key="STATICRESOURCES/COLLAPSED.RESOURCE" value="1510738323000" />
+                      <entry key="STATICRESOURCES/ORDERSTYLES.RESOURCE" value="1510738323000" />
+                      <entry key="TRIGGERS/SUBMITTRIGGER.TRIGGER" value="1510738439706" />
+                    </map>
+                  </option>
+                  <option name="lastBuildScope" value="MODULE" />
+                  <option name="lastBuildViewToggles">
+                    <map>
+                      <entry key="DEPLOY">
+                        <value>
+                          <BuildViewToggles>
+                            <option name="showLocalAndServer" value="true" />
+                            <option name="showLocalOnly" value="true" />
+                            <option name="showServerOnly" value="false" />
+                            <option name="showSubscribedOnly" value="true" />
+                          </BuildViewToggles>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="metadataContents">
+          <map>
+            <entry key="dev">
+              <value>
+                <MetadataContents>
+                  <option name="lastPopulated" value="1510733948783" />
+                  <option name="metadataTypes">
+                    <set>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CCard" />
+                            <option value="OrderController" />
+                            <option value="ShopConstants" />
+                            <option value="ShopController" />
+                            <option value="SubmitApproval" />
+                            <option value="TestOrderControllerClass" />
+                            <option value="TestShopController" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexClass" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="orders" />
+                            <option value="productCatalog" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexPage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="SubmitTrigger" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexTrigger" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="AppSwitcher" />
+                            <option value="Salesforce1" />
+                          </set>
+                        </option>
+                        <option name="name" value="AppMenu" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Approve_New_Account" />
+                            <option value="Opportunity.Approve_Opportunity_Discount" />
+                            <option value="Shop_Order__c.Approve_Order" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApprovalProcess" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                            <option value="Lead.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="AssignmentRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case" />
+                            <option value="Lead" />
+                          </set>
+                        </option>
+                        <option name="name" value="AssignmentRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case" />
+                            <option value="Lead" />
+                          </set>
+                        </option>
+                        <option name="name" value="AutoResponseRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="SelfSignedCert_12Aug2017_024424" />
+                          </set>
+                        </option>
+                        <option name="name" value="Certificate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DataCloudGeoLocation" />
+                          </set>
+                        </option>
+                        <option name="name" value="CleanDataService" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Internal Zone" />
+                          </set>
+                        </option>
+                        <option name="name" value="Community" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Contact.Mobile_Contact_Layout" />
+                            <option value="Event.Showing_Mobile_Layout" />
+                            <option value="Opportunity.New_Oppty_Compact_Layout" />
+                            <option value="Suggestion__c.Suggestion" />
+                          </set>
+                        </option>
+                        <option name="name" value="CompactLayout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="catalogicon5" />
+                            <option value="images" />
+                          </set>
+                        </option>
+                        <option name="name" value="ContentAsset" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Product_Catalog" />
+                            <option value="Suggestion_Box" />
+                            <option value="standard__AppLauncher" />
+                            <option value="standard__Chatter" />
+                            <option value="standard__Community" />
+                            <option value="standard__Content" />
+                            <option value="standard__LightningSales" />
+                            <option value="standard__LightningSalesConsole" />
+                            <option value="standard__LightningService" />
+                            <option value="standard__Marketing" />
+                            <option value="standard__Platform" />
+                            <option value="standard__Sales" />
+                            <option value="standard__Service" />
+                            <option value="standard__ServiceConsole" />
+                            <option value="standard__Sites" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomApplication" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Active__c" />
+                            <option value="Account.CustomerPriority__c" />
+                            <option value="Account.Match_Billing_Address__c" />
+                            <option value="Account.NumberofLocations__c" />
+                            <option value="Account.Potential_Value__c" />
+                            <option value="Account.SLAExpirationDate__c" />
+                            <option value="Account.SLASerialNumber__c" />
+                            <option value="Account.SLA__c" />
+                            <option value="Account.UpsellOpportunity__c" />
+                            <option value="Activity.DB_Activity_Type__c" />
+                            <option value="Activity.Feedback__c" />
+                            <option value="Activity.Property__c" />
+                            <option value="Campaign.DB_Campaign_Tactic__c" />
+                            <option value="Camping_Item__c.Packed__c" />
+                            <option value="Camping_Item__c.Price__c" />
+                            <option value="Camping_Item__c.Quantity__c" />
+                            <option value="Card__c.Created__c" />
+                            <option value="Card__c.Shop_Order__c" />
+                            <option value="Card__c.Shop_Product__c" />
+                            <option value="Card__c.Status__c" />
+                            <option value="Card__c.Total_Value__c" />
+                            <option value="Card__c.Unit_Sold__c" />
+                            <option value="Case.Days_Since_Last_Update__c" />
+                            <option value="Case.EngineeringReqNumber__c" />
+                            <option value="Case.PotentialLiability__c" />
+                            <option value="Case.Product__c" />
+                            <option value="Case.SLAViolation__c" />
+                            <option value="Contact.Languages__c" />
+                            <option value="Contact.Level__c" />
+                            <option value="Contact.Loan_Amount__c" />
+                            <option value="Energy_Audit__c.Account__c" />
+                            <option value="Energy_Audit__c.Annual_Energy_Usage_kWh__c" />
+                            <option value="Energy_Audit__c.Audit_Notes__c" />
+                            <option value="Energy_Audit__c.Average_Annual_Electric_Cost__c" />
+                            <option value="Energy_Audit__c.Type_of_Installation__c" />
+                            <option value="Expense__c.Amount__c" />
+                            <option value="Expense__c.Client__c" />
+                            <option value="Expense__c.Date__c" />
+                            <option value="Expense__c.Reimbursed__c" />
+                            <option value="Goal.OrigGoalId__c" />
+                            <option value="Lead.CurrentGenerators__c" />
+                            <option value="Lead.DB_Created_Date_without_Time__c" />
+                            <option value="Lead.DB_Lead_Age__c" />
+                            <option value="Lead.NumberofLocations__c" />
+                            <option value="Lead.Primary__c" />
+                            <option value="Lead.ProductInterest__c" />
+                            <option value="Lead.SICCode__c" />
+                            <option value="Metric.OrigMetricId__c" />
+                            <option value="Offer__c.Contact__c" />
+                            <option value="Offer__c.Offer_Amount__c" />
+                            <option value="Offer__c.Property__c" />
+                            <option value="Offer__c.Target_Close_Date__c" />
+                            <option value="Opportunity.CurrentGenerators__c" />
+                            <option value="Opportunity.DB_Competitor__c" />
+                            <option value="Opportunity.DeliveryInstallationStatus__c" />
+                            <option value="Opportunity.Discount_Percent_Status__c" />
+                            <option value="Opportunity.Discount_Percent__c" />
+                            <option value="Opportunity.MainCompetitors__c" />
+                            <option value="Opportunity.OrderNumber__c" />
+                            <option value="Opportunity.TrackingNumber__c" />
+                            <option value="Product2.Macaron_Flavor__c" />
+                            <option value="Product2.Shirt__c" />
+                            <option value="Product_Junction__c.Category__c" />
+                            <option value="Product_Junction__c.Shop_Product__c" />
+                            <option value="Project__c.Priority__c" />
+                            <option value="Property__c.Street_Address__c" />
+                            <option value="Shop_Order__c.Created__c" />
+                            <option value="Shop_Order__c.Discount__c" />
+                            <option value="Shop_Order__c.Status__c" />
+                            <option value="Shop_Order__c.Total_Value__c" />
+                            <option value="Shop_Order__c.Unit_Sold__c" />
+                            <option value="Shop_Product__c.Count__c" />
+                            <option value="Shop_Product__c.Description__c" />
+                            <option value="Shop_Product__c.Inventory__c" />
+                            <option value="Shop_Product__c.Price__c" />
+                            <option value="Suggestion__c.Implemented_Date__c" />
+                            <option value="Suggestion__c.Number_of_Days_Open__c" />
+                            <option value="Suggestion__c.Status__c" />
+                            <option value="Suggestion__c.Suggestion_Category__c" />
+                            <option value="Suggestion__c.Suggestion_Description__c" />
+                            <option value="User.DB_Region__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomField" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CustomLabels" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomLabels" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="AccountCleanInfo" />
+                            <option value="AccountContactRole" />
+                            <option value="Activity" />
+                            <option value="Asset" />
+                            <option value="AssetRelationship" />
+                            <option value="AssistantProgress" />
+                            <option value="Campaign" />
+                            <option value="CampaignMember" />
+                            <option value="Camping_Item__c" />
+                            <option value="Card__c" />
+                            <option value="Case" />
+                            <option value="CaseContactRole" />
+                            <option value="Category__c" />
+                            <option value="Contact" />
+                            <option value="ContactCleanInfo" />
+                            <option value="ContentVersion" />
+                            <option value="Contract" />
+                            <option value="ContractContactRole" />
+                            <option value="DandBCompany" />
+                            <option value="Document" />
+                            <option value="DuplicateRecordItem" />
+                            <option value="DuplicateRecordSet" />
+                            <option value="EmailMessage" />
+                            <option value="Energy_Audit__c" />
+                            <option value="Event" />
+                            <option value="ExchangeUserMapping" />
+                            <option value="Expense__c" />
+                            <option value="FeedItem" />
+                            <option value="ForecastingCategoryMapping" />
+                            <option value="Idea" />
+                            <option value="Lead" />
+                            <option value="LeadCleanInfo" />
+                            <option value="Macro" />
+                            <option value="MacroAction" />
+                            <option value="MacroInstruction" />
+                            <option value="Offer__c" />
+                            <option value="Opportunity" />
+                            <option value="OpportunityCompetitor" />
+                            <option value="OpportunityContactRole" />
+                            <option value="OpportunityLineItem" />
+                            <option value="Order" />
+                            <option value="OrderItem" />
+                            <option value="PartnerRole" />
+                            <option value="Pricebook2" />
+                            <option value="PricebookEntry" />
+                            <option value="Product2" />
+                            <option value="Product_Junction__c" />
+                            <option value="Project__c" />
+                            <option value="Property__c" />
+                            <option value="PushTopic" />
+                            <option value="Scorecard" />
+                            <option value="ScorecardMetric" />
+                            <option value="Shop_Order__c" />
+                            <option value="Shop_Product__c" />
+                            <option value="Site" />
+                            <option value="SocialPersona" />
+                            <option value="Solution" />
+                            <option value="StreamingChannel" />
+                            <option value="Suggestion__c" />
+                            <option value="Task" />
+                            <option value="User" />
+                            <option value="UserProvisioningRequest" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomObject" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Camping_Item__c-en_US" />
+                            <option value="Card__c-en_US" />
+                            <option value="Category__c-en_US" />
+                            <option value="Energy_Audit__c-en_US" />
+                            <option value="Expense__c-en_US" />
+                            <option value="Offer__c-en_US" />
+                            <option value="Product_Junction__c-en_US" />
+                            <option value="Project__c-en_US" />
+                            <option value="Property__c-en_US" />
+                            <option value="Shop_Order__c-en_US" />
+                            <option value="Shop_Product__c-en_US" />
+                            <option value="Suggestion__c-en_US" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomObjectTranslation" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Card__c" />
+                            <option value="Catalog" />
+                            <option value="Category__c" />
+                            <option value="Product_Junction__c" />
+                            <option value="Shop_Order__c" />
+                            <option value="Shop_Product__c" />
+                            <option value="Suggestion__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomTab" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Salesforce_Adoption_Dashboards/X1_User_Adoption_Logins" />
+                            <option value="Salesforce_Adoption_Dashboards/X2_Key_Feature_Adoption" />
+                            <option value="Salesforce_Adoption_Dashboards/X2_Key_Feature_Adoption1" />
+                            <option value="Salesforce_Adoption_Dashboards/X3_Sales_Marketing_Adoption" />
+                          </set>
+                        </option>
+                        <option name="name" value="Dashboard" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Salesforce_Adoption_Dashboards" />
+                          </set>
+                        </option>
+                        <option name="name" value="DashboardFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Standard_Account_Duplicate_Rule" />
+                            <option value="Contact.Standard_Contact_Duplicate_Rule" />
+                            <option value="Lead.Standard_Lead_Duplicate_Rule" />
+                          </set>
+                        </option>
+                        <option name="name" value="DuplicateRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public" />
+                          </set>
+                        </option>
+                        <option name="name" value="EmailFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public/Approve_Opportunity_Discount" />
+                            <option value="unfiled$public/MarketingProductInquiryResponse" />
+                            <option value="unfiled$public/Order_Approval" />
+                            <option value="unfiled$public/Order_completed" />
+                            <option value="unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE" />
+                            <option value="unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE" />
+                            <option value="unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE" />
+                            <option value="unfiled$public/SalesNewCustomerEmail" />
+                            <option value="unfiled$public/SupportCaseAssignmentNotification" />
+                            <option value="unfiled$public/SupportCaseCreatedPhoneInquiries" />
+                            <option value="unfiled$public/SupportCaseCreatedWebInquiries" />
+                            <option value="unfiled$public/SupportCaseResponse" />
+                            <option value="unfiled$public/SupportEscalatedCaseNotification" />
+                            <option value="unfiled$public/SupportEscalatedCaseReassignment" />
+                            <option value="unfiled$public/SupportSelfServiceNewLoginandPassword" />
+                            <option value="unfiled$public/SupportSelfServiceResetPassword" />
+                          </set>
+                        </option>
+                        <option name="name" value="EmailTemplate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Card_Record_Page" />
+                            <option value="Category_Record_Page" />
+                            <option value="LightningSalesConsole_UtilityBar" />
+                            <option value="LightningService_UtilityBar" />
+                            <option value="Process_Automation_Home" />
+                            <option value="Product_Catalog_UtilityBar" />
+                            <option value="Shop_Order_Record_Page" />
+                            <option value="Shop_Product_Record_Page" />
+                            <option value="Suggestion_Box_UtilityBar" />
+                            <option value="Test" />
+                            <option value="sa" />
+                          </set>
+                        </option>
+                        <option name="name" value="FlexiPage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Contact_adress_updater-1" />
+                            <option value="New_Customer_Flow-1" />
+                            <option value="Opportunity_Management-1" />
+                            <option value="Quick_Account-1" />
+                            <option value="Update_Status-1" />
+                          </set>
+                        </option>
+                        <option name="name" value="Flow" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Contact_adress_updater" />
+                            <option value="New_Customer_Flow" />
+                            <option value="Opportunity_Management" />
+                            <option value="Quick_Account" />
+                            <option value="Update_Status" />
+                          </set>
+                        </option>
+                        <option name="name" value="FlowDefinition" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Flavors" />
+                          </set>
+                        </option>
+                        <option name="name" value="GlobalValueSet" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DE Default" />
+                          </set>
+                        </option>
+                        <option name="name" value="HomePageLayout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="sf_chttr_apps" />
+                            <option value="sf_com_apps" />
+                          </set>
+                        </option>
+                        <option name="name" value="InstalledPackage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account-Account %28Marketing%29 Layout" />
+                            <option value="Account-Account %28Sales%29 Layout" />
+                            <option value="Account-Account %28Support%29 Layout" />
+                            <option value="Account-Account Layout" />
+                            <option value="Asset-Asset Layout" />
+                            <option value="AssetRelationship-Asset Relationship Layout" />
+                            <option value="Campaign-Campaign Layout" />
+                            <option value="CampaignMember-Campaign Member Page Layout" />
+                            <option value="Camping_Item__c-123" />
+                            <option value="Camping_Item__c-Camping Item Layout" />
+                            <option value="Card__c-Card Layout" />
+                            <option value="Case-Case %28Marketing%29 Layout" />
+                            <option value="Case-Case %28Sales%29 Layout" />
+                            <option value="Case-Case %28Support%29 Layout" />
+                            <option value="Case-Case Layout" />
+                            <option value="CaseClose-Close Case Layout" />
+                            <option value="Category__c-Category Layout" />
+                            <option value="CollaborationGroup-Group Layout" />
+                            <option value="Contact-Contact %28Marketing%29 Layout" />
+                            <option value="Contact-Contact %28Sales%29 Layout" />
+                            <option value="Contact-Contact %28Support%29 Layout" />
+                            <option value="Contact-Contact Layout" />
+                            <option value="ContentVersion-Content Version Layout" />
+                            <option value="Contract-Contract Layout" />
+                            <option value="DandBCompany-D%26B Company Layout" />
+                            <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
+                            <option value="EmailMessage-Email Message Layout" />
+                            <option value="Energy_Audit__c-Energy Audit Layout" />
+                            <option value="Event-Event Layout" />
+                            <option value="Event-Showing Layout" />
+                            <option value="Expense__c-Expense Layout" />
+                            <option value="FeedItem-Feed Item Layout" />
+                            <option value="Global-Global Layout" />
+                            <option value="Idea-Idea Layout" />
+                            <option value="Lead-Lead %28Marketing%29 Layout" />
+                            <option value="Lead-Lead %28Sales%29 Layout" />
+                            <option value="Lead-Lead %28Support%29 Layout" />
+                            <option value="Lead-Lead Layout" />
+                            <option value="Macro-Macro Layout" />
+                            <option value="Offer__c-Offer Layout" />
+                            <option value="Opportunity-Opportunity %28Marketing%29 Layout" />
+                            <option value="Opportunity-Opportunity %28Sales%29 Layout" />
+                            <option value="Opportunity-Opportunity %28Support%29 Layout" />
+                            <option value="Opportunity-Opportunity Layout" />
+                            <option value="OpportunityLineItem-Opportunity Product Layout" />
+                            <option value="Order-Order Layout" />
+                            <option value="OrderItem-Order Product Layout" />
+                            <option value="Pricebook2-Price Book Layout" />
+                            <option value="PricebookEntry-Price Book Entry Layout" />
+                            <option value="Product2-Product Layout" />
+                            <option value="Product_Junction__c-Product Junction Layout" />
+                            <option value="Project__c-Project Layout" />
+                            <option value="Property__c-Property Layout" />
+                            <option value="Scorecard-Scorecard Layout" />
+                            <option value="ScorecardMetric-Scorecard Metric Layout" />
+                            <option value="Shop_Order__c-Shop Order Layout" />
+                            <option value="Shop_Product__c-Shop Product Layout" />
+                            <option value="SocialPersona-Social Persona Layout" />
+                            <option value="SocialPost-Social Post Layout" />
+                            <option value="Solution-Solution Layout" />
+                            <option value="Suggestion__c-Suggestion Layout" />
+                            <option value="Task-Task Layout" />
+                            <option value="User-User Layout" />
+                            <option value="UserAlt-User Profile Layout" />
+                            <option value="UserProvAccount-User Provisioning Account Layout" />
+                            <option value="UserProvisioningLog-User Provisioning Log Layout" />
+                            <option value="UserProvisioningRequest-User Provisioning Request Layout" />
+                          </set>
+                        </option>
+                        <option name="name" value="Layout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.AllAccounts" />
+                            <option value="Account.MyAccounts" />
+                            <option value="Account.NewLastWeek" />
+                            <option value="Account.NewThisWeek" />
+                            <option value="Account.PlatinumandGoldSLACustomers" />
+                            <option value="Activity.AllActivities" />
+                            <option value="Activity.MyActivities" />
+                            <option value="Activity.TodaysTasks" />
+                            <option value="Activity.UpcomingEvents" />
+                            <option value="Asset.AllAssets" />
+                            <option value="Campaign.AllActiveCampaigns" />
+                            <option value="Campaign.MyActiveCampaigns" />
+                            <option value="Card__c.All" />
+                            <option value="Card__c.Open" />
+                            <option value="Case.AllClosedCases" />
+                            <option value="Case.AllOpenCases" />
+                            <option value="Case.MyCases" />
+                            <option value="Case.MyOpenCases" />
+                            <option value="Category__c.All" />
+                            <option value="Contact.AllContacts" />
+                            <option value="Contact.BirthdaysThisMonth" />
+                            <option value="Contact.MyContacts" />
+                            <option value="Contact.NewLastWeek" />
+                            <option value="Contact.NewThisWeek" />
+                            <option value="Contract.AllActivatedContracts" />
+                            <option value="Contract.AllContracts" />
+                            <option value="Contract.AllDraftContracts" />
+                            <option value="Contract.AllInApprovalContracts" />
+                            <option value="Contract.MyActivatedContracts" />
+                            <option value="Contract.MyDraftContracts" />
+                            <option value="Contract.MyInApprovalContracts" />
+                            <option value="Idea.Ideas_Last_7_Days" />
+                            <option value="Lead.AllOpenLeads" />
+                            <option value="Lead.MyUnreadLeads" />
+                            <option value="Lead.TodaysLeads" />
+                            <option value="Lead.ViewCustom1" />
+                            <option value="Lead.ViewCustom2" />
+                            <option value="Opportunity.AllOpportunities" />
+                            <option value="Opportunity.ClosingNextMonth" />
+                            <option value="Opportunity.ClosingThisMonth" />
+                            <option value="Opportunity.Default_Opportunity_Pipeline" />
+                            <option value="Opportunity.High_Probability_Opportunities" />
+                            <option value="Opportunity.MyOpportunities" />
+                            <option value="Opportunity.NewLastWeek" />
+                            <option value="Opportunity.NewThisWeek" />
+                            <option value="Opportunity.Private" />
+                            <option value="Opportunity.Won" />
+                            <option value="Order.AllActivatedOrders" />
+                            <option value="Order.AllDraftOrders" />
+                            <option value="Order.AllOrders" />
+                            <option value="Product2.AllProducts" />
+                            <option value="Product_Junction__c.All" />
+                            <option value="Shop_Order__c.All" />
+                            <option value="Shop_Product__c.All" />
+                            <option value="SocialPost.AllSocialPosts" />
+                            <option value="Solution.AllReviewedSolutions" />
+                            <option value="Solution.AllUnreviewedSolutions" />
+                            <option value="Suggestion__c.All" />
+                            <option value="User.ActiveUsers" />
+                            <option value="User.AdminUsers" />
+                            <option value="User.AllUsers" />
+                            <option value="WorkFeedbackRequest.AboutTopics" />
+                            <option value="WorkFeedbackRequest.All" />
+                            <option value="WorkFeedbackTemplate.All" />
+                          </set>
+                        </option>
+                        <option name="name" value="ListView" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Standard_Account_Match_Rule_v1_0" />
+                            <option value="Contact.Standard_Contact_Match_Rule_v1_1" />
+                            <option value="Lead.Standard_Lead_Match_Rule_v1_0" />
+                          </set>
+                        </option>
+                        <option name="name" value="MatchingRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Contact" />
+                            <option value="Lead" />
+                          </set>
+                        </option>
+                        <option name="name" value="MatchingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Admin" />
+                            <option value="RatingRating" />
+                            <option value="Shop_Customer" />
+                            <option value="sweet666" />
+                          </set>
+                        </option>
+                        <option name="name" value="PermissionSet" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Opportunity.Opportunity_Approvals" />
+                          </set>
+                        </option>
+                        <option name="name" value="PostTemplate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Account Reviewer" />
+                            <option value="Admin" />
+                            <option value="Analytics Cloud Integration User" />
+                            <option value="Analytics Cloud Security User" />
+                            <option value="Authenticated Website" />
+                            <option value="Chatter External User" />
+                            <option value="Chatter Free User" />
+                            <option value="Chatter Moderator User" />
+                            <option value="ContractManager" />
+                            <option value="Cross Org Data Proxy User" />
+                            <option value="Custom%3A Marketing Profile" />
+                            <option value="Custom%3A Sales Profile" />
+                            <option value="Custom%3A Support Profile" />
+                            <option value="Customer Community Login User" />
+                            <option value="Customer Community Plus Login User" />
+                            <option value="Customer Community Plus User" />
+                            <option value="Customer Community User" />
+                            <option value="Customer Portal Manager Custom" />
+                            <option value="Customer Portal Manager Standard" />
+                            <option value="External Identity User" />
+                            <option value="Force%2Ecom - App Subscription User" />
+                            <option value="Force%2Ecom - Free User" />
+                            <option value="Gold Partner User" />
+                            <option value="High Volume Customer Portal User" />
+                            <option value="HighVolumePortal" />
+                            <option value="Identity User" />
+                            <option value="MarketingProfile" />
+                            <option value="Partner App Subscription User" />
+                            <option value="Partner Community Login User" />
+                            <option value="Partner Community User" />
+                            <option value="PlatformPortal" />
+                            <option value="ReadOnly" />
+                            <option value="Silver Partner User" />
+                            <option value="SolutionManager" />
+                            <option value="Standard" />
+                            <option value="StandardAul" />
+                            <option value="Work%2Ecom Only User" />
+                          </set>
+                        </option>
+                        <option name="name" value="Profile" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.LogACall" />
+                            <option value="Case.NewChildCase" />
+                            <option value="CollaborationGroup.NewGroupMember" />
+                            <option value="CollaborationGroup.NewGroupRecord" />
+                            <option value="Contact.New_Showing" />
+                            <option value="Event.Enter_Feedback" />
+                            <option value="FeedItem.NewTaskFromFeedItem" />
+                            <option value="LogACall" />
+                            <option value="NewAccount" />
+                            <option value="NewCase" />
+                            <option value="NewContact" />
+                            <option value="NewEvent" />
+                            <option value="NewGroup" />
+                            <option value="NewLead" />
+                            <option value="NewNote" />
+                            <option value="NewOpportunity" />
+                            <option value="NewTask" />
+                            <option value="New_Offer" />
+                            <option value="New_Suggestion" />
+                            <option value="SendEmail" />
+                            <option value="Task.Defer" />
+                            <option value="Task.Defer_0" />
+                            <option value="Task.EditDescription" />
+                            <option value="Task.EditDescription_0" />
+                            <option value="Task.UpdatePriority" />
+                            <option value="Task.UpdatePriority_0" />
+                            <option value="Task.UpdateStatus" />
+                            <option value="Task.UpdateStatus_0" />
+                          </set>
+                        </option>
+                        <option name="name" value="QuickAction" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Event.Showing" />
+                            <option value="Metric.Completion" />
+                            <option value="Metric.Progress" />
+                          </set>
+                        </option>
+                        <option name="name" value="RecordType" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="ApexDevNet" />
+                          </set>
+                        </option>
+                        <option name="name" value="RemoteSiteSetting" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DB_Adoption/Active_User_Logins" />
+                            <option value="DB_Adoption/Active_Users" />
+                            <option value="DB_Adoption/DB_Adoption" />
+                            <option value="DB_Adoption/DB_Adoption_ACCOUNTS_w_o_Fields_Pop" />
+                            <option value="DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Fame" />
+                            <option value="DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Shame" />
+                            <option value="DB_Adoption/DB_Adoption_CONTACTS_wO_Fields_Populated" />
+                            <option value="DB_Adoption/DB_Adoption_Campaigns" />
+                            <option value="DB_Adoption/DB_Adoption_Campaigns_Last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_Campaigns_by_Status" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_Accounts" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_LEADS" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_OPPTYS" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_OPPTYS_last_365" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_all_CONTACTS" />
+                            <option value="DB_Adoption/DB_Adoption_Funnel_Load_Rate" />
+                            <option value="DB_Adoption/DB_Adoption_Last_Run_Reports" />
+                            <option value="DB_Adoption/DB_Adoption_Lead_Abandonment" />
+                            <option value="DB_Adoption/DB_Adoption_Leads_Converted_Last_365" />
+                            <option value="DB_Adoption/DB_Adoption_Login_Wall_of_Fame" />
+                            <option value="DB_Adoption/DB_Adoption_Login_Wall_of_Shame" />
+                            <option value="DB_Adoption/DB_Adoption_Login_by_Department" />
+                            <option value="DB_Adoption/DB_Adoption_Login_by_Region" />
+                            <option value="DB_Adoption/DB_Adoption_Login_by_Role" />
+                            <option value="DB_Adoption/DB_Adoption_Mass_Emails_Created" />
+                            <option value="DB_Adoption/DB_Adoption_Neglected_Customers" />
+                            <option value="DB_Adoption/DB_Adoption_Neglected_OPPTYS" />
+                            <option value="DB_Adoption/DB_Adoption_Neglected_Prospects" />
+                            <option value="DB_Adoption/DB_Adoption_New_ACTIVITIES_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_New_ACTIVITIES_last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_New_Accounts_Last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_New_Accounts_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_New_Contacts_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_New_Leads_Last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_New_Leads_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_New_OPPORTUNITIES_last_30" />
+                            <option value="DB_Adoption/DB_Adoption_OPPORTUNITIES_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_OPPORTUNITY_Trend_Owner" />
+                            <option value="DB_Adoption/DB_Adoption_OPPTYS_by_STAGE_entered" />
+                            <option value="DB_Adoption/DB_Adoption_OPPTYS_w_No_Opp_Product" />
+                            <option value="DB_Adoption/DB_Adoption_OPPTYS_wo_Fields_Populated" />
+                            <option value="DB_Adoption/DB_Adoption_PROSPECT_w_Fields_Populated" />
+                            <option value="unfiled$public/Case_Status_1" />
+                            <option value="unfiled$public/Cases_by_Status" />
+                            <option value="unfiled$public/Opportunity_Stages" />
+                          </set>
+                        </option>
+                        <option name="name" value="Report" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DB_Adoption" />
+                            <option value="test" />
+                            <option value="unfiled$public" />
+                          </set>
+                        </option>
+                        <option name="name" value="ReportFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CEO" />
+                            <option value="ChannelSalesTeam" />
+                            <option value="Chief_Sales_Officer" />
+                            <option value="Customer" />
+                            <option value="CustomerSupportInternational" />
+                            <option value="CustomerSupportNorthAmerica" />
+                            <option value="DirectorChannelSales" />
+                            <option value="DirectorDirectSales" />
+                            <option value="EasternSalesTeam" />
+                            <option value="InstallationRepairServices" />
+                            <option value="MarketingTeam" />
+                            <option value="SVPCustomerServiceSupport" />
+                            <option value="SVPHumanResources" />
+                            <option value="SVPSalesMarketing" />
+                            <option value="Sales_Strategy_Manager" />
+                            <option value="Training_Coordinator" />
+                            <option value="VPInternationalSales" />
+                            <option value="VPMarketing" />
+                            <option value="VPNorthAmericanSales" />
+                            <option value="WesternSalesTeam" />
+                          </set>
+                        </option>
+                        <option name="name" value="Role" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Activities" />
+                            <option value="Address" />
+                            <option value="BusinessHours" />
+                            <option value="Case" />
+                            <option value="Company" />
+                            <option value="Contract" />
+                            <option value="Entitlement" />
+                            <option value="FieldService" />
+                            <option value="FileUploadAndDownloadSecurity" />
+                            <option value="Forecasting" />
+                            <option value="Ideas" />
+                            <option value="Knowledge" />
+                            <option value="LiveAgent" />
+                            <option value="Macro" />
+                            <option value="Mobile" />
+                            <option value="Name" />
+                            <option value="Opportunity" />
+                            <option value="Order" />
+                            <option value="OrgPreference" />
+                            <option value="PathAssistant" />
+                            <option value="PersonalJourney" />
+                            <option value="Product" />
+                            <option value="Quote" />
+                            <option value="Search" />
+                            <option value="Security" />
+                            <option value="SocialCustomerService" />
+                          </set>
+                        </option>
+                        <option name="name" value="Settings" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Project__c.Training_Coordinator" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingCriteriaRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Asset" />
+                            <option value="Campaign" />
+                            <option value="Camping_Item__c" />
+                            <option value="Card__c" />
+                            <option value="Case" />
+                            <option value="Category__c" />
+                            <option value="Contact" />
+                            <option value="Energy_Audit__c" />
+                            <option value="Expense__c" />
+                            <option value="Lead" />
+                            <option value="Opportunity" />
+                            <option value="Order" />
+                            <option value="Project__c" />
+                            <option value="Property__c" />
+                            <option value="Shop_Order__c" />
+                            <option value="Shop_Product__c" />
+                            <option value="Suggestion__c" />
+                            <option value="User" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="AccountContactMultiRoles" />
+                            <option value="AccountContactRole" />
+                            <option value="AccountOwnership" />
+                            <option value="AccountRating" />
+                            <option value="AccountType" />
+                            <option value="AssetStatus" />
+                            <option value="CampaignMemberStatus" />
+                            <option value="CampaignStatus" />
+                            <option value="CampaignType" />
+                            <option value="CaseContactRole" />
+                            <option value="CaseOrigin" />
+                            <option value="CasePriority" />
+                            <option value="CaseReason" />
+                            <option value="CaseStatus" />
+                            <option value="CaseType" />
+                            <option value="ContactRole" />
+                            <option value="ContractContactRole" />
+                            <option value="ContractStatus" />
+                            <option value="EntitlementType" />
+                            <option value="EventSubject" />
+                            <option value="EventType" />
+                            <option value="FiscalYearPeriodName" />
+                            <option value="FiscalYearPeriodPrefix" />
+                            <option value="FiscalYearQuarterName" />
+                            <option value="FiscalYearQuarterPrefix" />
+                            <option value="IdeaMultiCategory" />
+                            <option value="IdeaStatus" />
+                            <option value="IdeaThemeStatus" />
+                            <option value="Industry" />
+                            <option value="LeadSource" />
+                            <option value="LeadStatus" />
+                            <option value="OpportunityCompetitor" />
+                            <option value="OpportunityStage" />
+                            <option value="OpportunityType" />
+                            <option value="OrderType" />
+                            <option value="PartnerRole" />
+                            <option value="Product2Family" />
+                            <option value="QuickTextCategory" />
+                            <option value="QuickTextChannel" />
+                            <option value="QuoteStatus" />
+                            <option value="RoleInTerritory2" />
+                            <option value="SalesTeamRole" />
+                            <option value="Salutation" />
+                            <option value="ServiceContractApprovalStatus" />
+                            <option value="SocialPostClassification" />
+                            <option value="SocialPostEngagementLevel" />
+                            <option value="SocialPostReviewedStatus" />
+                            <option value="SolutionStatus" />
+                            <option value="TaskPriority" />
+                            <option value="TaskStatus" />
+                            <option value="TaskSubject" />
+                            <option value="TaskType" />
+                            <option value="WorkOrderLineItemStatus" />
+                            <option value="WorkOrderPriority" />
+                            <option value="WorkOrderStatus" />
+                          </set>
+                        </option>
+                        <option name="name" value="StandardValueSet" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CategoryStyles" />
+                            <option value="Collapsed" />
+                            <option value="OrderStyles" />
+                          </set>
+                        </option>
+                        <option name="name" value="StaticResource" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Asset" />
+                            <option value="Campaign" />
+                            <option value="Camping_Item__c" />
+                            <option value="Card__c" />
+                            <option value="Case" />
+                            <option value="Category__c" />
+                            <option value="Contact" />
+                            <option value="ContentDocument" />
+                            <option value="Contract" />
+                            <option value="Energy_Audit__c" />
+                            <option value="Event" />
+                            <option value="Expense__c" />
+                            <option value="Lead" />
+                            <option value="Offer__c" />
+                            <option value="Opportunity" />
+                            <option value="Order" />
+                            <option value="Product_Junction__c" />
+                            <option value="Project__c" />
+                            <option value="Property__c" />
+                            <option value="Shop_Order__c" />
+                            <option value="Shop_Product__c" />
+                            <option value="Solution" />
+                            <option value="Suggestion__c" />
+                            <option value="Task" />
+                          </set>
+                        </option>
+                        <option name="name" value="TopicsForObjects" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Suggestion__c.Date_in_Range" />
+                          </set>
+                        </option>
+                        <option name="name" value="ValidationRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Billing" />
+                            <option value="Campaign.ViewCampaignInfluenceReport" />
+                            <option value="Case.UpsellCrosssellOpportunity" />
+                            <option value="Contact.Google_Info" />
+                            <option value="Opportunity.DeliveryStatus" />
+                          </set>
+                        </option>
+                        <option name="name" value="WebLink" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Case" />
+                            <option value="Opportunity" />
+                            <option value="Shop_Order__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="Workflow" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Shop_Order__c.Order_Email_Alert" />
+                            <option value="Shop_Order__c.X2" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowAlert" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.If_approved" />
+                            <option value="Account.approved" />
+                            <option value="Account.entering_the_approval_process" />
+                            <option value="Account.not_approved" />
+                            <option value="Case.Set_Case_to_Escalated" />
+                            <option value="Opportunity.Status_Approved" />
+                            <option value="Opportunity.Status_Not_Approved" />
+                            <option value="Shop_Order__c.Open_Status" />
+                            <option value="Shop_Order__c.Order_Closed" />
+                            <option value="Shop_Order__c.Pending" />
+                            <option value="Shop_Order__c.Pending_Status" />
+                            <option value="Shop_Order__c.X1" />
+                            <option value="Shop_Order__c.X3" />
+                            <option value="Shop_Order__c.X4" />
+                            <option value="Shop_Order__c.closedStatus" />
+                            <option value="Shop_Order__c.openStatus" />
+                            <option value="Shop_Order__c.pendingStatus" />
+                            <option value="Shop_Order__c.statusClosed" />
+                            <option value="Shop_Order__c.statusOpen" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowFieldUpdate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Shop_Order__c.Success" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowOutboundMessage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Case Escalate on High Priority" />
+                            <option value="Shop_Order__c.Approving" />
+                            <option value="Shop_Order__c.Order Emailing" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Follow_Up_on_Escalated_Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowTask" />
+                      </MetadataType>
+                    </set>
+                  </option>
+                </MetadataContents>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="78" />
+    <option name="y" value="20" />
+    <option name="width" value="1733" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="staticresources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="triggers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Apex Unit Tests.TestShopController">
+    <configuration name="TestOrderControllerClass" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="apexLogLevel" value="DEBUG" />
+      <option name="calloutsLogLevel" value="INFO" />
+      <option name="connectionName" value="dev" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="INFO" />
+      <option name="logLevelsInitialized" value="false" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="Shop">
+            <value>
+              <set>
+                <option value="TestOrderControllerClass" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="profilingLogLevel" value="INFO" />
+      <option name="systemLogLevel" value="DEBUG" />
+      <option name="testClassToTestMethodNames">
+        <map />
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="INFO" />
+      <option name="visualforceLogLevel" value="INFO" />
+      <option name="workflowLogLevel" value="INFO" />
+    </configuration>
+    <configuration name="TestOrderControllerClass.InsertCardAndOrderCompareGetOrderMethodWithNull" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="apexLogLevel" value="DEBUG" />
+      <option name="calloutsLogLevel" value="INFO" />
+      <option name="connectionName" value="dev" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="INFO" />
+      <option name="logLevelsInitialized" value="false" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="Shop">
+            <value>
+              <set>
+                <option value="TestOrderControllerClass" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="profilingLogLevel" value="INFO" />
+      <option name="systemLogLevel" value="DEBUG" />
+      <option name="testClassToTestMethodNames">
+        <map>
+          <entry key="TestOrderControllerClass">
+            <value>
+              <set>
+                <option value="InsertCardAndOrderCompareGetOrderMethodWithNull" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="INFO" />
+      <option name="visualforceLogLevel" value="INFO" />
+      <option name="workflowLogLevel" value="INFO" />
+    </configuration>
+    <configuration name="TestShopController" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="apexLogLevel" value="DEBUG" />
+      <option name="calloutsLogLevel" value="INFO" />
+      <option name="connectionName" value="dev" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="INFO" />
+      <option name="logLevelsInitialized" value="false" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="Shop">
+            <value>
+              <set>
+                <option value="TestShopController" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="profilingLogLevel" value="INFO" />
+      <option name="systemLogLevel" value="DEBUG" />
+      <option name="testClassToTestMethodNames">
+        <map />
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="INFO" />
+      <option name="visualforceLogLevel" value="INFO" />
+      <option name="workflowLogLevel" value="INFO" />
+    </configuration>
+    <configuration name="TestShopController.InsertCategoryProductCardSubmitCardCompareCardsWithNull" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="apexLogLevel" value="DEBUG" />
+      <option name="calloutsLogLevel" value="INFO" />
+      <option name="connectionName" value="dev" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="INFO" />
+      <option name="logLevelsInitialized" value="false" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="Shop">
+            <value>
+              <set>
+                <option value="TestShopController" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="profilingLogLevel" value="INFO" />
+      <option name="systemLogLevel" value="DEBUG" />
+      <option name="testClassToTestMethodNames">
+        <map>
+          <entry key="TestShopController">
+            <value>
+              <set>
+                <option value="InsertCategoryProductCardSubmitCardCompareCardsWithNull" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="INFO" />
+      <option name="visualforceLogLevel" value="INFO" />
+      <option name="workflowLogLevel" value="INFO" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Apex Unit Tests.TestOrderControllerClass.InsertCardAndOrderCompareGetOrderMethodWithNull" />
+      <item index="1" class="java.lang.String" itemvalue="Apex Unit Tests.TestOrderControllerClass" />
+      <item index="2" class="java.lang.String" itemvalue="Apex Unit Tests.TestShopController" />
+      <item index="3" class="java.lang.String" itemvalue="Apex Unit Tests.TestShopController.InsertCategoryProductCardSubmitCardCompareCardsWithNull" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Apex Unit Tests.TestShopController" />
+        <item index="1" class="java.lang.String" itemvalue="Apex Unit Tests.TestShopController.InsertCategoryProductCardSubmitCardCompareCardsWithNull" />
+        <item index="2" class="java.lang.String" itemvalue="Apex Unit Tests.TestOrderControllerClass" />
+        <item index="3" class="java.lang.String" itemvalue="Apex Unit Tests.TestOrderControllerClass.InsertCardAndOrderCompareGetOrderMethodWithNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8c98e51-cf75-4e95-867d-fa9d77fef496" name="Default" comment="" />
+      <created>1510730172542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510730172542</updated>
+      <workItem from="1510730173758" duration="52000" />
+      <workItem from="1510730228485" duration="10747000" />
+      <workItem from="1510755202652" duration="59000" />
+      <workItem from="1510756464730" duration="1390000" />
+      <workItem from="1510759669832" duration="9000" />
+      <workItem from="1510816253860" duration="5975000" />
+      <workItem from="1510823900874" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestOrderControllerClass - 2017.11.15 at 12h 12m 19s.xml">
+      <configuration name="TestOrderControllerClass" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestOrderControllerClass - 2017.11.15 at 12h 12m 54s.xml">
+      <configuration name="TestOrderControllerClass" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestOrderControllerClass - 2017.11.15 at 12h 34m 24s.xml">
+      <configuration name="TestOrderControllerClass" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestOrderControllerClass_InsertCardAndOrderCompareGetOrderMethodWithNull - 2017.11.15 at 12h 11m 54s.xml">
+      <configuration name="TestOrderControllerClass.InsertCardAndOrderCompareGetOrderMethodWithNull" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestShopController - 2017.11.15 at 12h 13m 12s.xml">
+      <configuration name="TestShopController" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestShopController - 2017.11.15 at 12h 34m 41s.xml">
+      <configuration name="TestShopController" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestShopController - 2017.11.15 at 17h 49m 16s.xml">
+      <configuration name="TestShopController" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestShopController - 2017.11.15 at 17h 49m 29s.xml">
+      <configuration name="TestShopController" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestShopController - 2017.11.15 at 17h 57m 27s.xml">
+      <configuration name="TestShopController" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+    <history-entry file="TestShopController_InsertCategoryProductCardSubmitCardCompareCardsWithNull - 2017.11.15 at 17h 55m 50s.xml">
+      <configuration name="TestShopController.InsertCategoryProductCardSubmitCardCompareCardsWithNull" configurationId="com.illuminatedcloud.intellij" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18429000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Anonymous Apex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48977274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18152525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SOQL Query" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Log Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/classes/TestShopController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/triggers/SubmitTrigger.trigger">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/TestShopController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/triggers/SubmitTrigger.trigger">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ShopController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ShopController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticresources/OrderStyles.resource">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticresources/CategoryStyles.resource">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticresources/Collapsed.resource">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Messenger.cls" />
+    <entry file="file://$PROJECT_DIR$/src/classes/StaticValues.cls" />
+    <entry file="file://$PROJECT_DIR$/src/classes/CCard.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/OrderController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ShopConstants.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/orders.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/TestOrderControllerClass.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ShopController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1431">
+          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/SubmitApproval.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/TestShopController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="116" column="40" lean-forward="false" selection-start-line="116" selection-start-column="40" selection-end-line="116" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/triggers/SubmitTrigger.trigger">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/productCatalog.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/test.page" />
+  </component>
+</project>

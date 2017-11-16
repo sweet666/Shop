@@ -1,0 +1,49 @@
+<apex:page controller="ShopController">
+    <apex:stylesheet value="{!$Resource.CategoryStyles}"/>
+
+    <apex:pageMessages />
+    <apex:form >
+        <apex:pageBlock title="Hello {!$User.FirstName}!">
+            <apex:pageBlockButtons location="top">
+                <apex:commandButton value="Orders" action="{!goOrders}"/>
+            </apex:pageBlockButtons>
+            <apex:repeat value="{!productsByCategories}" var="list">
+                <apex:pageBlockSection title="{!list}" id="categoryName" columns="1">
+                    <script>
+                        twistSection(document.getElementById("{!$Component.categoryName}").childNodes[0].childNodes[0]);
+                    </script>
+                    <apex:pageBlockTable value="{!productsByCategories[list]}" var="item">
+                        <apex:column value="{!item.Shop_Product__r.name}" width="15%"/>
+                        <apex:column value="{!item.Shop_Product__r.Description__c}" width="30%"/>
+                        <apex:column value="{!item.Shop_Product__r.Inventory__c}"/>
+                        <apex:column value="{!item.Shop_Product__r.Price__c}" width="10%"/>
+                        <apex:column headerValue="Count" width="15%">
+                            <apex:inputText id="count" value="{!item.Shop_Product__r.Count__c}"/>
+                        </apex:column>
+                        <apex:column headerValue="Card">
+                            <apex:commandButton action="{!addToCard}" value="Add"/>
+                        </apex:column>
+                    </apex:pageBlockTable>
+                </apex:pageBlockSection>
+            </apex:repeat>
+        </apex:pageBlock>
+    </apex:form>
+
+    <apex:form >
+        <apex:pageBlock title="Cards" id="ordersBlock" rendered="{!IF(cards.size>0, true, false)}">
+            <apex:pageBlockButtons location="top">
+                <apex:commandButton value="Remove Selected" action="{!removeSelected}"/>
+                <apex:commandButton value="Submit Selected" action="{!submitSelected}"/>
+            </apex:pageBlockButtons>
+            <apex:pageBlockTable value="{!cards}" var="cd" id="cardsTable">
+                <apex:column >
+                    <apex:inputCheckbox value="{!cd.selected}"/>
+                </apex:column>
+                <apex:column value="{!cd.crd.Shop_Product__r.name}"/>
+                <apex:column value="{!cd.crd.Unit_Sold__c}"/>
+                <apex:column value="{!cd.crd.Total_Value__c}"/>
+            </apex:pageBlockTable>
+        </apex:pageBlock>
+    </apex:form>
+
+</apex:page>
