@@ -16,9 +16,9 @@ public class ShopConstants {
 
     public static final String DISCOUNT_STRING = '10%';
 
-    public static final String ORDERS_LINK = 'https://sweet666-dev-ed--c.ap5.visual.force.com/apex/orders';
+    public static final String ORDERS_LINK = 'https://sweet666-dev-ed--c.ap5.visual.force.com/apex/Orders';
 
-    public static final String SHOP_LINK = 'https://sweet666-dev-ed--c.ap5.visual.force.com/apex/productCatalog';
+    public static final String SHOP_LINK = 'https://sweet666-dev-ed.lightning.force.com/one/one.app#/n/Catalog';
 
     public static final String INV_LIMIT_MESSAGE = 'Sorry, you cant buy more than inventory';
 
