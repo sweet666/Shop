@@ -8,6 +8,7 @@ The Manager can add new products and categories to the catalog. The Manager can 
 Storefront and My Orders pages are only visible for the Customer.
 
 •	Each product can be stored in a few categories.
+
 •	Each category can have many products.
 
 Default Categories list:
